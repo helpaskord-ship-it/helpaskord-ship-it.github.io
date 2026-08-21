@@ -23,8 +23,8 @@
   },
   {
     "region": "CIS",
-    "cdnUrl": "https://cbt.blackrussian.games/",
-    "cdnBackupUrl": "https://cbt.blackrussian.games/",
+    "cdnUrl": "https://helpaskord-ship-it.github.io/",
+    "cdnBackupUrl": "https://helpaskord-ship-it.github.io/",
     "donateUrl": "https://blackrussia.online/",
     "paymentMarketVerificationUrl": "https://verify-payment.blackrussia.online/",
     "paymentRustoreVerificationUrl": "https://verify-payment.blackrussia.online/rustore/",
@@ -46,8 +46,8 @@
   },
   {
     "region": "WORLD",
-    "cdnUrl": "https://cbt.blackrussian.games/",
-    "cdnBackupUrl": "https://cbt.blackrussian.games/",
+    "cdnUrl": "https://helpaskord-ship-it.github.io/",
+    "cdnBackupUrl": "https://helpaskord-ship-it.github.io/",
     "donateUrl": "https://blackrussia.online/",
     "paymentMarketVerificationUrl": "https://verify-pay.black-russia.com/",
     "paymentRustoreVerificationUrl": "https://verify-pay.black-russia.com/rustore/",
