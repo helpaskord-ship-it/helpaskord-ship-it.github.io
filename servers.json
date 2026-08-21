@@ -1,0 +1,18 @@
+[
+    {
+  "logo": "white",
+    "color": "AAAAAA",
+    "id": 203,
+    "name": "Test P4 (PreProd / ST)",
+    "firstname": "Test P4 (PreProd / ST)",
+    "secondname": "Test P4 (PreProd / ST)",
+    "ip": "80.66.82.19",
+    "port": "7040",
+    "key": "1424",
+    "maxonline": "1000",
+    "online": "400",
+    "status": "test-public",
+    "url": "80.66.82.19",
+    "x2": "false"
+    }
+]

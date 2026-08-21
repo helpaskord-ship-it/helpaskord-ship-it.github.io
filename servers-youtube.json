@@ -1,0 +1,17 @@
+﻿[
+  {
+    "id"        : 204,
+    "logo"      : "red-tube",
+    "color"     : "E2310C",
+    "name"      : "Test Youtube",
+    "firstname" : "Test Youtube",
+    "secondname": "Test Youtube",
+    "ip"        : "80.66.82.19",
+    "port"      : "7090",
+    "key"       : "1424",
+    "online"    : "1000",
+    "maxonline" : "1100",
+    "url"       : "80.66.82.19",
+    "x2"        : false
+  }
+]

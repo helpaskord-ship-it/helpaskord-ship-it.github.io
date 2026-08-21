@@ -1,0 +1,3158 @@
+{
+    "android_version": 1513,
+    "files": [
+        {
+            "crc_xxhashct": 2888379657,
+            "filesize": 3144136,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "launcher.bpc",
+            "rule_file": "loader.video"
+        },
+        {
+            "crc_xxhashct": 3039804085,
+            "filesize": 43958731,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "resources/video/launcher_video.zip",
+            "rule_file": "loader.video"
+        },
+        {
+            "crc_xxhashct": 3624513030,
+            "filesize": 117844268,
+            "link": "files_31762_31a41313_1787326521003_express",
+            "path": "launcher.apk",
+            "rule_file": "android.site"
+        },
+        {
+            "crc_xxhashct": 2592156807,
+            "filesize": 72720719,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_cars_01_nologo.etc2.bpc",
+            "rule_file": "nologo.etc2"
+        },
+        {
+            "crc_xxhashct": 1679473179,
+            "filesize": 309973,
+            "link": "files_31762_31a41313_1787326521003_express",
+            "path": "textures/br_tex_cars_01_nologo.etc2.bpc.tmb",
+            "rule_file": "nologo.etc2"
+        },
+        {
+            "crc_xxhashct": 3242723018,
+            "filesize": 57736689,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_gui_nologo.etc2.bpc",
+            "rule_file": "nologo.etc2"
+        },
+        {
+            "crc_xxhashct": 3912748301,
+            "filesize": 319971,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_gui_nologo.etc2.bpc.tmb",
+            "rule_file": "nologo.etc2"
+        },
+        {
+            "crc_xxhashct": 3634268982,
+            "filesize": 97877308,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_cars_01_nologo.astc.bpc",
+            "rule_file": "nologo.astc"
+        },
+        {
+            "crc_xxhashct": 1574657568,
+            "filesize": 364029,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_cars_01_nologo.astc.bpc.tmb",
+            "rule_file": "nologo.astc"
+        },
+        {
+            "crc_xxhashct": 3890524478,
+            "filesize": 57720600,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_gui_nologo.astc.bpc",
+            "rule_file": "nologo.astc"
+        },
+        {
+            "crc_xxhashct": 1180046600,
+            "filesize": 367462,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_gui_nologo.astc.bpc.tmb",
+            "rule_file": "nologo.astc"
+        },
+        {
+            "crc_xxhashct": 764895645,
+            "filesize": 318898716,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "mesh/br_cars_01_nologo.bpc",
+            "rule_file": "nologo"
+        },
+        {
+            "crc_xxhashct": 1017213263,
+            "filesize": 20905614,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_bp_events.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 2649318617,
+            "filesize": 33931,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_bp_events.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 481321175,
+            "filesize": 156474845,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_01.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 3338925150,
+            "filesize": 1320033,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_01.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 3326039821,
+            "filesize": 54785007,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_02.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 2087826744,
+            "filesize": 156460,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_02.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 514198360,
+            "filesize": 13964229,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_acc_01.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 2284107552,
+            "filesize": 99075,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_acc_01.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 3929842824,
+            "filesize": 32563,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_cars_winter.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 38794247,
+            "filesize": 253,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_cars_winter.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 682480919,
+            "filesize": 257368,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_generic.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 2905661205,
+            "filesize": 16750,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_generic.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 384854154,
+            "filesize": 141877434,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_interiors.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 2698474600,
+            "filesize": 338161,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_interiors.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 380324982,
+            "filesize": 9572244,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_legacy_smp.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 604446012,
+            "filesize": 210574,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_legacy_smp.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 2587138627,
+            "filesize": 35887379,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_LOD_01.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 4048815774,
+            "filesize": 175177,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_LOD_01.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 934886569,
+            "filesize": 98628779,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_main.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 1326366604,
+            "filesize": 1003495,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_main.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 1399173653,
+            "filesize": 25378860,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_mobile.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 3434939541,
+            "filesize": 363337,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_mobile.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 3737080240,
+            "filesize": 10248113,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_patent.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 3615341598,
+            "filesize": 69436,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_patent.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 1133298282,
+            "filesize": 15457402,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_racetrack.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 2887600997,
+            "filesize": 51020,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_racetrack.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 407534757,
+            "filesize": 158292762,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_skins_01.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 110146500,
+            "filesize": 627194,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_skins_01.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 1277657724,
+            "filesize": 4734302,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_txd.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 2053061540,
+            "filesize": 125390,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_txd.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 1994961113,
+            "filesize": 26426508,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_uzniy.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 3906600377,
+            "filesize": 66967,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_uzniy.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 651370168,
+            "filesize": 130534,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/BugFix.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 1057793164,
+            "filesize": 943,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/BugFix.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 1608452138,
+            "filesize": 7564455,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Characters.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 3653088961,
+            "filesize": 13450,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Characters.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 2607709756,
+            "filesize": 3780038,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/DLC_PortJob.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 364220119,
+            "filesize": 9743,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/DLC_PortJob.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 217027365,
+            "filesize": 1818190,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/event_9may_25.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 4214473871,
+            "filesize": 2956,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/event_9may_25.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 3834122928,
+            "filesize": 704072,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_BP23_tfs.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 2672150840,
+            "filesize": 2062,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_BP23_tfs.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 1641285703,
+            "filesize": 770105,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_BP27.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 1872340878,
+            "filesize": 4185,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_BP27.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 2495169698,
+            "filesize": 532538,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_BP28.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 4049066490,
+            "filesize": 2484,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_BP28.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 1921017145,
+            "filesize": 484665,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_BP29.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 400010895,
+            "filesize": 2198,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_BP29.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 1427569812,
+            "filesize": 765857,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_BP30.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 480372126,
+            "filesize": 4965,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_BP30.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 1673488838,
+            "filesize": 10169845,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Cyberfarm.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 762799164,
+            "filesize": 21839,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Cyberfarm.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 2995335758,
+            "filesize": 534629,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Grom.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 1852330529,
+            "filesize": 2003,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Grom.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 2444857308,
+            "filesize": 9871717,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_H25.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 2451192170,
+            "filesize": 20132,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_H25.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 1944395868,
+            "filesize": 8132281,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_NY26.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 3003638930,
+            "filesize": 26716,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_NY26.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 2972663385,
+            "filesize": 2262312,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Quest1.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 860239439,
+            "filesize": 5307,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Quest1.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 1318380049,
+            "filesize": 11665799,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Quest2.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 3659616489,
+            "filesize": 35130,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Quest2.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 2669380159,
+            "filesize": 329013,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Quest3.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 1370351864,
+            "filesize": 3277,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Quest3.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 3578719074,
+            "filesize": 151349,
+            "link": "files_31727_6b5a1f08_1787315576622_express",
+            "path": "textures/Event_Quest5.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 560510507,
+            "filesize": 1324,
+            "link": "files_31727_6b5a1f08_1787315576622_express",
+            "path": "textures/Event_Quest5.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 1271309554,
+            "filesize": 192981,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Season1.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 3712791297,
+            "filesize": 679,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Season1.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 2196483326,
+            "filesize": 724610,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Season4.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 67888206,
+            "filesize": 2285,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Season4.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 61434757,
+            "filesize": 1107929,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Season5.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 2764086379,
+            "filesize": 3896,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Season5.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 2295413180,
+            "filesize": 1250346,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Valentin26.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 3338171695,
+            "filesize": 2373,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Valentin26.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 1640672666,
+            "filesize": 79807,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_World_Cup.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 653949664,
+            "filesize": 701,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_World_Cup.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 2334983355,
+            "filesize": 514275706,
+            "link": "files_31762_31a41313_1787326521003_express",
+            "path": "textures/gui_textures.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 415291337,
+            "filesize": 980738,
+            "link": "files_31762_31a41313_1787326521003_express",
+            "path": "textures/gui_textures.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 3128197119,
+            "filesize": 4441422,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Gun_store.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 4004760835,
+            "filesize": 9904,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Gun_store.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 2627081201,
+            "filesize": 33166022,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Interiors.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 3407689587,
+            "filesize": 11606,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Interiors.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 787195935,
+            "filesize": 35503254,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Level_Garel.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 1396231066,
+            "filesize": 71547,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Level_Garel.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 2595696220,
+            "filesize": 108128610,
+            "link": "files_31762_31a41313_1787326521003_express",
+            "path": "textures/Roads3-0.astc.bpc",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 2738240182,
+            "filesize": 730729,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Roads3-0.astc.bpc.tmb",
+            "rule_file": "astc"
+        },
+        {
+            "crc_xxhashct": 1917271542,
+            "filesize": 20351299,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_bp_events.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 16823137,
+            "filesize": 28890,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_bp_events.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 3880749971,
+            "filesize": 142000635,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_01.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 740676818,
+            "filesize": 1113019,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_01.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 88211357,
+            "filesize": 46043093,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_02.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 464592607,
+            "filesize": 131935,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_02.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 2112738098,
+            "filesize": 12865196,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_acc_01.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 2135099996,
+            "filesize": 84138,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_acc_01.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 1216804641,
+            "filesize": 32260,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_cars_winter.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 1311610179,
+            "filesize": 219,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_cars_winter.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 3368957641,
+            "filesize": 273864,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_generic.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 4123689355,
+            "filesize": 14647,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_generic.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 220627428,
+            "filesize": 137415015,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_interiors.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 1672634943,
+            "filesize": 286020,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_interiors.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 3718135755,
+            "filesize": 8239776,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_legacy_smp.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 1596468523,
+            "filesize": 179126,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_legacy_smp.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 1494266379,
+            "filesize": 27846888,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_LOD_01.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 3921024737,
+            "filesize": 148711,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_LOD_01.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 3109467026,
+            "filesize": 84855715,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_main.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 3322077437,
+            "filesize": 847032,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_main.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 1482755643,
+            "filesize": 24956754,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_mobile.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 1164770524,
+            "filesize": 99000,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_mobile.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 35785176,
+            "filesize": 8492804,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_patent.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 4169868379,
+            "filesize": 59333,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_patent.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 2100612343,
+            "filesize": 13262955,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_racetrack.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 3567951001,
+            "filesize": 43293,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_racetrack.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 2064566899,
+            "filesize": 122709756,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_skins_01.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 1764227199,
+            "filesize": 530081,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_skins_01.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 3575027973,
+            "filesize": 4908670,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_txd.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 4065540536,
+            "filesize": 106013,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_txd.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 3312648873,
+            "filesize": 18130089,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_uzniy.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 629049310,
+            "filesize": 57476,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_uzniy.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 4273085093,
+            "filesize": 128876,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/BugFix.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 2069084000,
+            "filesize": 804,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/BugFix.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 1858940182,
+            "filesize": 6532097,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Characters.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 2868409217,
+            "filesize": 11496,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Characters.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 3805676364,
+            "filesize": 3061526,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/DLC_PortJob.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 1340831158,
+            "filesize": 8281,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/DLC_PortJob.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 3128331679,
+            "filesize": 1550358,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/event_9may_25.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 1887047560,
+            "filesize": 2509,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/event_9may_25.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 2086447339,
+            "filesize": 695017,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_BP23_tfs.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 2347243185,
+            "filesize": 1747,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_BP23_tfs.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 1352746759,
+            "filesize": 728565,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_BP27.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 1760907460,
+            "filesize": 3575,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_BP27.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 821273501,
+            "filesize": 487023,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_BP28.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 1712579752,
+            "filesize": 2104,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_BP28.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 3701568206,
+            "filesize": 419979,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_BP29.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 2616647940,
+            "filesize": 1870,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_BP29.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 2637955055,
+            "filesize": 838204,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_BP30.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 2790424926,
+            "filesize": 4215,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_BP30.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 458974001,
+            "filesize": 10519894,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Cyberfarm.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 3088668175,
+            "filesize": 18467,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Cyberfarm.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 3996503308,
+            "filesize": 400778,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Grom.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 3922298281,
+            "filesize": 1706,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Grom.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 1512328305,
+            "filesize": 9833671,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_H25.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 618619677,
+            "filesize": 17210,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_H25.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 3006486718,
+            "filesize": 7593941,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_NY26.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 3714051372,
+            "filesize": 22824,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_NY26.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 2793877521,
+            "filesize": 2391023,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Quest1.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 4090618011,
+            "filesize": 4493,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Quest1.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 3248186111,
+            "filesize": 10338326,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Quest2.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 2372934996,
+            "filesize": 29735,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Quest2.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 84044664,
+            "filesize": 366012,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Quest3.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 292462069,
+            "filesize": 2793,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Quest3.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 1102751806,
+            "filesize": 123182,
+            "link": "files_31727_6b5a1f08_1787315576622_express",
+            "path": "textures/Event_Quest5.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 1023436986,
+            "filesize": 1139,
+            "link": "files_31727_6b5a1f08_1787315576622_express",
+            "path": "textures/Event_Quest5.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 573463287,
+            "filesize": 148866,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Season1.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 3732971682,
+            "filesize": 576,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Season1.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 2850329374,
+            "filesize": 725054,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Season4.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 2340923228,
+            "filesize": 1930,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Season4.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 107669622,
+            "filesize": 1254974,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Season5.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 2473988958,
+            "filesize": 3324,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Season5.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 2563147863,
+            "filesize": 1186835,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Valentin26.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 2369367763,
+            "filesize": 2073,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_Valentin26.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 1496507380,
+            "filesize": 80059,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_World_Cup.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 3988710760,
+            "filesize": 590,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Event_World_Cup.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 2334983355,
+            "filesize": 514275706,
+            "link": "files_31762_31a41313_1787326521003_express",
+            "path": "textures/gui_textures.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 415291337,
+            "filesize": 980738,
+            "link": "files_31762_31a41313_1787326521003_express",
+            "path": "textures/gui_textures.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 3619532348,
+            "filesize": 3992951,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Gun_store.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 3758111606,
+            "filesize": 8344,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Gun_store.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 3985675526,
+            "filesize": 32923804,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Interiors.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 1304795648,
+            "filesize": 9833,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Interiors.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 2811206707,
+            "filesize": 32149104,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Level_Garel.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 953786777,
+            "filesize": 61126,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Level_Garel.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 1572357583,
+            "filesize": 98437222,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Roads3-0.etc2.bpc",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 409604448,
+            "filesize": 640739,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/Roads3-0.etc2.bpc.tmb",
+            "rule_file": "etc2"
+        },
+        {
+            "crc_xxhashct": 431357370,
+            "filesize": 74388998,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "audio/audiostream/streams.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2185933597,
+            "filesize": 7096217,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "audio/samples/GENERIC.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1029193956,
+            "filesize": 162767,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "audio/samples/STEPS.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3015100814,
+            "filesize": 60881542,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "audio/samples/VEHICLE.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2893253783,
+            "filesize": 6955338,
+            "link": "files_31727_6b5a1f08_1787315576622_express",
+            "path": "common.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3670081826,
+            "filesize": 6203423,
+            "link": "files_31727_6b5a1f08_1787315576622_express",
+            "path": "gui.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 318221831,
+            "filesize": 422913,
+            "link": "files_31727_6b5a1f08_1787315576622_express",
+            "path": "jsons/client-jsons.zip",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 4204345744,
+            "filesize": 399469,
+            "link": "files_31727_6b5a1f08_1787315576622_express",
+            "path": "jsons/en/client-jsons.zip",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1351871912,
+            "filesize": 401146,
+            "link": "files_31727_6b5a1f08_1787315576622_express",
+            "path": "jsons/pt-br/client-jsons.zip",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3816971719,
+            "filesize": 13693557,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "mesh/br_accessories_01.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3714935704,
+            "filesize": 3797165,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "mesh/br_anim.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1089490251,
+            "filesize": 15638065,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "mesh/br_bp_events.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3530465341,
+            "filesize": 35384670,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "mesh/br_collision.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2136924336,
+            "filesize": 39017,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "mesh/br_common.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2006142502,
+            "filesize": 115314013,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "mesh/br_hotfix.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2226968099,
+            "filesize": 856942,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "mesh/br_legacy_smp.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1068562418,
+            "filesize": 92263411,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "mesh/br_map_00.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3702465269,
+            "filesize": 149333610,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "mesh/br_map_01.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2102810844,
+            "filesize": 232634322,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "mesh/br_map_02.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 4206344173,
+            "filesize": 24209174,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "mesh/br_racetrack.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3430897035,
+            "filesize": 151733190,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "mesh/br_skins_01.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3382582519,
+            "filesize": 545933,
+            "link": "files_31762_31a41313_1787326521003_express",
+            "path": "mesh/BugFix.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3740558964,
+            "filesize": 8757970,
+            "link": "files_31762_31a41313_1787326521003_express",
+            "path": "mesh/DLC_PortJob.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 101029726,
+            "filesize": 1089647,
+            "link": "files_31762_31a41313_1787326521003_express",
+            "path": "mesh/Event_9may26.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3908045495,
+            "filesize": 682191,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "mesh/Event_BP23_tfs.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 679850469,
+            "filesize": 626628,
+            "link": "files_31762_31a41313_1787326521003_express",
+            "path": "mesh/Event_BP27.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1660478424,
+            "filesize": 471581,
+            "link": "files_31762_31a41313_1787326521003_express",
+            "path": "mesh/Event_BP28.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2516995568,
+            "filesize": 403320,
+            "link": "files_31762_31a41313_1787326521003_express",
+            "path": "mesh/Event_BP29.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 4045045299,
+            "filesize": 616205,
+            "link": "files_31762_31a41313_1787326521003_express",
+            "path": "mesh/Event_BP30.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3447424259,
+            "filesize": 9663099,
+            "link": "files_31762_31a41313_1787326521003_express",
+            "path": "mesh/Event_Cyberfarm.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1433677275,
+            "filesize": 348989,
+            "link": "files_31762_31a41313_1787326521003_express",
+            "path": "mesh/Event_Grom.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1055560531,
+            "filesize": 19122209,
+            "link": "files_31762_31a41313_1787326521003_express",
+            "path": "mesh/Event_H25.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2568239611,
+            "filesize": 3133024,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "mesh/Event_H25_Old.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 317186787,
+            "filesize": 31217004,
+            "link": "files_31762_31a41313_1787326521003_express",
+            "path": "mesh/Event_NY26.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3486338750,
+            "filesize": 17828300,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "mesh/Event_NY26_Old.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3932512363,
+            "filesize": 4098390,
+            "link": "files_31762_31a41313_1787326521003_express",
+            "path": "mesh/Event_Quest1.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3294078587,
+            "filesize": 25649810,
+            "link": "files_31762_31a41313_1787326521003_express",
+            "path": "mesh/Event_Quest2.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 779721678,
+            "filesize": 638479,
+            "link": "files_31762_31a41313_1787326521003_express",
+            "path": "mesh/Event_Quest3.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2948775444,
+            "filesize": 548510,
+            "link": "files_31762_31a41313_1787326521003_express",
+            "path": "mesh/Event_Quest5.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 547726378,
+            "filesize": 53573,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "mesh/Event_Quest_Port_Old.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 4237126389,
+            "filesize": 117316,
+            "link": "files_31762_31a41313_1787326521003_express",
+            "path": "mesh/Event_Season1.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3867077731,
+            "filesize": 8205746,
+            "link": "files_31762_31a41313_1787326521003_express",
+            "path": "mesh/Event_Season4.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1436030199,
+            "filesize": 934578,
+            "link": "files_31762_31a41313_1787326521003_express",
+            "path": "mesh/Event_Season5.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 4235632801,
+            "filesize": 2559534,
+            "link": "files_31762_31a41313_1787326521003_express",
+            "path": "mesh/Event_Valentin26.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 336551515,
+            "filesize": 24213,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "mesh/Event_Valentin26_Old.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2005798922,
+            "filesize": 92673,
+            "link": "files_31762_31a41313_1787326521003_express",
+            "path": "mesh/Event_World_Cup.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1102878069,
+            "filesize": 2321,
+            "link": "files_31762_31a41313_1787326521003_express",
+            "path": "mesh/FTUE.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3190128828,
+            "filesize": 3957901,
+            "link": "files_31762_31a41313_1787326521003_express",
+            "path": "mesh/Gun_store.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2154443496,
+            "filesize": 5745021,
+            "link": "files_31762_31a41313_1787326521003_express",
+            "path": "mesh/Interiors.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 902502343,
+            "filesize": 153723955,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "mesh/Level_Garel.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3866891500,
+            "filesize": 3627608,
+            "link": "files_31762_31a41313_1787326521003_express",
+            "path": "mesh/Revert_NY26.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1595315765,
+            "filesize": 266008453,
+            "link": "files_31762_31a41313_1787326521003_express",
+            "path": "mesh/Roads3-0.bpc",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2189069416,
+            "filesize": 226146,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "resources/images/accessories/img_event_item_9may.zip",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 4022359529,
+            "filesize": 173108,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "resources/images/accessories/img_vinyl_9may.zip",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2964960184,
+            "filesize": 3058846,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "resources/images/backgrounds/bg_start_screen.zip",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 1583237673,
+            "filesize": 219628,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "resources/images/pictures/img_100378.zip",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 832384178,
+            "filesize": 494179,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "resources/images/pictures/img_case_event20.zip",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 2634831081,
+            "filesize": 483200,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "resources/images/pictures/img_case_event21.zip",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3039804085,
+            "filesize": 43958731,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "resources/video/launcher.zip",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 4275175425,
+            "filesize": 383129872,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "resources/video/video.zip",
+            "rule_file": "base"
+        },
+        {
+            "crc_xxhashct": 3908573934,
+            "filesize": 320582651,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "mesh/br_cars_01.bpc",
+            "rule_file": "with.logo"
+        },
+        {
+            "crc_xxhashct": 2844825203,
+            "filesize": 100038171,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_cars_01.astc.bpc",
+            "rule_file": "with.logo.astc"
+        },
+        {
+            "crc_xxhashct": 559325497,
+            "filesize": 407139,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_cars_01.astc.bpc.tmb",
+            "rule_file": "with.logo.astc"
+        },
+        {
+            "crc_xxhashct": 2466908309,
+            "filesize": 57739219,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_gui.astc.bpc",
+            "rule_file": "with.logo.astc"
+        },
+        {
+            "crc_xxhashct": 1479411092,
+            "filesize": 367148,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_gui.astc.bpc.tmb",
+            "rule_file": "with.logo.astc"
+        },
+        {
+            "crc_xxhashct": 4259625775,
+            "filesize": 75349286,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_cars_01.etc2.bpc",
+            "rule_file": "with.logo.etc2"
+        },
+        {
+            "crc_xxhashct": 322949321,
+            "filesize": 347110,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_cars_01.etc2.bpc.tmb",
+            "rule_file": "with.logo.etc2"
+        },
+        {
+            "crc_xxhashct": 4075316909,
+            "filesize": 57755302,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_gui.etc2.bpc",
+            "rule_file": "with.logo.etc2"
+        },
+        {
+            "crc_xxhashct": 1123143805,
+            "filesize": 320143,
+            "link": "files_31631_f9bcdc49_1787237903592",
+            "path": "textures/br_tex_gui.etc2.bpc.tmb",
+            "rule_file": "with.logo.etc2"
+        }
+    ],
+    "filesize": 903495221659,
+    "forced_download_ios": false,
+    "forced_download_market": false,
+    "forced_download_pc": false,
+    "forced_download_rustore": false,
+    "forced_download_site": false,
+    "hash_commit": "31762_31a41313_1787326521003",
+    "ios_version": 0,
+    "link": "files_31762_31a41313_1787326521003",
+    "patches": [
+        {
+            "folders": [],
+            "format_version": "1.0",
+            "hash_commit_final": "30767_096d6976_1785947541896",
+            "hash_commit_initial": "30702_096d6976_1785860659818",
+            "subpatches": [
+                {
+                    "crc_xxhashct": 947546956,
+                    "files": [
+                        {
+                            "crc_xxhashct": 2595696220,
+                            "filesize": 156290,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/Roads3-0.astc.bpc",
+                            "size_after_apply": 108128610,
+                            "size_before_apply": 108116650
+                        }
+                    ],
+                    "filesize": 150295,
+                    "link": "patches_30767_096d6976_1785947541896/patch_30767_096d6976_1785947541896_astc.zip",
+                    "renames": [],
+                    "rule_file": "astc"
+                },
+                {
+                    "crc_xxhashct": 1514712190,
+                    "files": [
+                        {
+                            "crc_xxhashct": 1748630969,
+                            "filesize": 9104,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "jsons/client-jsons.zip",
+                            "size_after_apply": 361302,
+                            "size_before_apply": 361262
+                        },
+                        {
+                            "crc_xxhashct": 3968593383,
+                            "filesize": 9785,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "jsons/en/client-jsons.zip",
+                            "size_after_apply": 337407,
+                            "size_before_apply": 337364
+                        },
+                        {
+                            "crc_xxhashct": 1635670601,
+                            "filesize": 9906,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "jsons/pt-br/client-jsons.zip",
+                            "size_after_apply": 337528,
+                            "size_before_apply": 337489
+                        }
+                    ],
+                    "filesize": 22774,
+                    "link": "patches_30767_096d6976_1785947541896/patch_30767_096d6976_1785947541896_base.zip",
+                    "renames": [],
+                    "rule_file": "base"
+                }
+            ]
+        },
+        {
+            "folders": [],
+            "format_version": "1.0",
+            "hash_commit_final": "30798_096d6976_1786013513052",
+            "hash_commit_initial": "30767_096d6976_1785947541896",
+            "subpatches": [
+                {
+                    "crc_xxhashct": 1681847331,
+                    "files": [
+                        {
+                            "crc_xxhashct": 4062417780,
+                            "filesize": 181353,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/gui_textures.astc.bpc",
+                            "size_after_apply": 476616521,
+                            "size_before_apply": 476612695
+                        },
+                        {
+                            "crc_xxhashct": 1354600239,
+                            "filesize": 128892,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/gui_textures.astc.bpc.tmb",
+                            "size_after_apply": 911071,
+                            "size_before_apply": 911031
+                        }
+                    ],
+                    "filesize": 97633,
+                    "link": "patches_30798_096d6976_1786013513052/patch_30798_096d6976_1786013513052_astc.zip",
+                    "renames": [],
+                    "rule_file": "astc"
+                },
+                {
+                    "crc_xxhashct": 793044632,
+                    "files": [
+                        {
+                            "crc_xxhashct": 4062417780,
+                            "filesize": 181353,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/gui_textures.etc2.bpc",
+                            "size_after_apply": 476616521,
+                            "size_before_apply": 476612695
+                        },
+                        {
+                            "crc_xxhashct": 1354600239,
+                            "filesize": 128892,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/gui_textures.etc2.bpc.tmb",
+                            "size_after_apply": 911071,
+                            "size_before_apply": 911031
+                        }
+                    ],
+                    "filesize": 97633,
+                    "link": "patches_30798_096d6976_1786013513052/patch_30798_096d6976_1786013513052_etc2.zip",
+                    "renames": [],
+                    "rule_file": "etc2"
+                },
+                {
+                    "crc_xxhashct": 397720579,
+                    "files": [
+                        {
+                            "crc_xxhashct": 2589563199,
+                            "filesize": 13816,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "jsons/client-jsons.zip",
+                            "size_after_apply": 361434,
+                            "size_before_apply": 361302
+                        },
+                        {
+                            "crc_xxhashct": 2609252613,
+                            "filesize": 13993,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "jsons/en/client-jsons.zip",
+                            "size_after_apply": 337555,
+                            "size_before_apply": 337407
+                        },
+                        {
+                            "crc_xxhashct": 3159734689,
+                            "filesize": 19757,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "jsons/pt-br/client-jsons.zip",
+                            "size_after_apply": 337675,
+                            "size_before_apply": 337528
+                        }
+                    ],
+                    "filesize": 40352,
+                    "link": "patches_30798_096d6976_1786013513052/patch_30798_096d6976_1786013513052_base.zip",
+                    "renames": [],
+                    "rule_file": "base"
+                }
+            ]
+        },
+        {
+            "folders": [],
+            "format_version": "1.0",
+            "hash_commit_final": "30921_c19a6a38_1786116731150",
+            "hash_commit_initial": "30798_096d6976_1786013513052",
+            "subpatches": [
+                {
+                    "crc_xxhashct": 1381152774,
+                    "files": [
+                        {
+                            "crc_xxhashct": 3197300062,
+                            "filesize": 47977863,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "launcher.apk",
+                            "size_after_apply": 116925683,
+                            "size_before_apply": 116914745
+                        }
+                    ],
+                    "filesize": 45741172,
+                    "link": "patches_30921_c19a6a38_1786116731150/patch_30921_c19a6a38_1786116731150_android.site.zip",
+                    "renames": [],
+                    "rule_file": "android.site"
+                },
+                {
+                    "crc_xxhashct": 2026941622,
+                    "files": [
+                        {
+                            "crc_xxhashct": 1017213263,
+                            "filesize": 158766,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/br_bp_events.astc.bpc",
+                            "size_after_apply": 20905614,
+                            "size_before_apply": 20910166
+                        },
+                        {
+                            "crc_xxhashct": 2649318617,
+                            "filesize": 10143,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/br_bp_events.astc.bpc.tmb",
+                            "size_after_apply": 33931,
+                            "size_before_apply": 33935
+                        }
+                    ],
+                    "filesize": 155624,
+                    "link": "patches_30921_c19a6a38_1786116731150/patch_30921_c19a6a38_1786116731150_astc.zip",
+                    "renames": [],
+                    "rule_file": "astc"
+                },
+                {
+                    "crc_xxhashct": 2740518660,
+                    "files": [
+                        {
+                            "crc_xxhashct": 1917271542,
+                            "filesize": 124128,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/br_bp_events.etc2.bpc",
+                            "size_after_apply": 20351299,
+                            "size_before_apply": 20351704
+                        },
+                        {
+                            "crc_xxhashct": 16823137,
+                            "filesize": 9709,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/br_bp_events.etc2.bpc.tmb",
+                            "size_after_apply": 28890,
+                            "size_before_apply": 28897
+                        }
+                    ],
+                    "filesize": 120747,
+                    "link": "patches_30921_c19a6a38_1786116731150/patch_30921_c19a6a38_1786116731150_etc2.zip",
+                    "renames": [],
+                    "rule_file": "etc2"
+                },
+                {
+                    "crc_xxhashct": 1805137783,
+                    "files": [
+                        {
+                            "crc_xxhashct": 1957705567,
+                            "filesize": 5630,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "jsons/client-jsons.zip",
+                            "size_after_apply": 361440,
+                            "size_before_apply": 361434
+                        },
+                        {
+                            "crc_xxhashct": 4133218759,
+                            "filesize": 5815,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "jsons/en/client-jsons.zip",
+                            "size_after_apply": 337561,
+                            "size_before_apply": 337555
+                        },
+                        {
+                            "crc_xxhashct": 1495083329,
+                            "filesize": 5936,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "jsons/pt-br/client-jsons.zip",
+                            "size_after_apply": 337682,
+                            "size_before_apply": 337675
+                        }
+                    ],
+                    "filesize": 9855,
+                    "link": "patches_30921_c19a6a38_1786116731150/patch_30921_c19a6a38_1786116731150_base.zip",
+                    "renames": [],
+                    "rule_file": "base"
+                }
+            ]
+        },
+        {
+            "folders": [],
+            "format_version": "1.0",
+            "hash_commit_final": "31631_f9bcdc49_1787237903592",
+            "hash_commit_initial": "30921_c19a6a38_1786116731150",
+            "subpatches": [
+                {
+                    "crc_xxhashct": 3266314206,
+                    "files": [
+                        {
+                            "crc_xxhashct": 2888379657,
+                            "filesize": 3144136,
+                            "is_diff": false,
+                            "is_remove": false,
+                            "path": "launcher.bpc",
+                            "size_after_apply": 3144136,
+                            "size_before_apply": 0
+                        }
+                    ],
+                    "filesize": 3144433,
+                    "link": "patches_31631_f9bcdc49_1787237903592/patch_31631_f9bcdc49_1787237903592_loader.video.zip",
+                    "renames": [],
+                    "rule_file": "loader.video"
+                },
+                {
+                    "crc_xxhashct": 2734399677,
+                    "files": [
+                        {
+                            "crc_xxhashct": 1195265737,
+                            "filesize": 68808360,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "launcher.apk",
+                            "size_after_apply": 117819332,
+                            "size_before_apply": 116925683
+                        }
+                    ],
+                    "filesize": 64996576,
+                    "link": "patches_31631_f9bcdc49_1787237903592/patch_31631_f9bcdc49_1787237903592_android.site.zip",
+                    "renames": [],
+                    "rule_file": "android.site"
+                },
+                {
+                    "crc_xxhashct": 4157977807,
+                    "files": [
+                        {
+                            "crc_xxhashct": 2592156807,
+                            "filesize": 76393,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/br_tex_cars_01_nologo.etc2.bpc",
+                            "size_after_apply": 72720719,
+                            "size_before_apply": 72808468
+                        },
+                        {
+                            "crc_xxhashct": 3924288468,
+                            "filesize": 52463,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/br_tex_cars_01_nologo.etc2.bpc.tmb",
+                            "size_after_apply": 309973,
+                            "size_before_apply": 309971
+                        }
+                    ],
+                    "filesize": 49117,
+                    "link": "patches_31631_f9bcdc49_1787237903592/patch_31631_f9bcdc49_1787237903592_nologo.etc2.zip",
+                    "renames": [],
+                    "rule_file": "nologo.etc2"
+                },
+                {
+                    "crc_xxhashct": 424336060,
+                    "files": [
+                        {
+                            "crc_xxhashct": 3634268982,
+                            "filesize": 76246,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/br_tex_cars_01_nologo.astc.bpc",
+                            "size_after_apply": 97877308,
+                            "size_before_apply": 97979019
+                        },
+                        {
+                            "crc_xxhashct": 1574657568,
+                            "filesize": 51735,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/br_tex_cars_01_nologo.astc.bpc.tmb",
+                            "size_after_apply": 364029,
+                            "size_before_apply": 364030
+                        }
+                    ],
+                    "filesize": 45041,
+                    "link": "patches_31631_f9bcdc49_1787237903592/patch_31631_f9bcdc49_1787237903592_nologo.astc.zip",
+                    "renames": [],
+                    "rule_file": "nologo.astc"
+                },
+                {
+                    "crc_xxhashct": 15557141,
+                    "files": [
+                        {
+                            "crc_xxhashct": 932878811,
+                            "filesize": 122654,
+                            "is_diff": false,
+                            "is_remove": false,
+                            "path": "textures/Event_Quest5.astc.bpc",
+                            "size_after_apply": 122654,
+                            "size_before_apply": 0
+                        },
+                        {
+                            "crc_xxhashct": 1756751118,
+                            "filesize": 1112,
+                            "is_diff": false,
+                            "is_remove": false,
+                            "path": "textures/Event_Quest5.astc.bpc.tmb",
+                            "size_after_apply": 1112,
+                            "size_before_apply": 0
+                        },
+                        {
+                            "crc_xxhashct": 2627081201,
+                            "filesize": 4098211,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/Interiors.astc.bpc",
+                            "size_after_apply": 33166022,
+                            "size_before_apply": 29082113
+                        },
+                        {
+                            "crc_xxhashct": 3407689587,
+                            "filesize": 4978,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/Interiors.astc.bpc.tmb",
+                            "size_after_apply": 11606,
+                            "size_before_apply": 10017
+                        },
+                        {
+                            "crc_xxhashct": 681321623,
+                            "filesize": 60207468,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/gui_textures.astc.bpc",
+                            "size_after_apply": 531351807,
+                            "size_before_apply": 476616521
+                        },
+                        {
+                            "crc_xxhashct": 2456312649,
+                            "filesize": 326958,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/gui_textures.astc.bpc.tmb",
+                            "size_after_apply": 988837,
+                            "size_before_apply": 911071
+                        }
+                    ],
+                    "filesize": 63675376,
+                    "link": "patches_31631_f9bcdc49_1787237903592/patch_31631_f9bcdc49_1787237903592_astc.zip",
+                    "renames": [],
+                    "rule_file": "astc"
+                },
+                {
+                    "crc_xxhashct": 261761021,
+                    "files": [
+                        {
+                            "crc_xxhashct": 1538815277,
+                            "filesize": 102943,
+                            "is_diff": false,
+                            "is_remove": false,
+                            "path": "textures/Event_Quest5.etc2.bpc",
+                            "size_after_apply": 102943,
+                            "size_before_apply": 0
+                        },
+                        {
+                            "crc_xxhashct": 2143833248,
+                            "filesize": 962,
+                            "is_diff": false,
+                            "is_remove": false,
+                            "path": "textures/Event_Quest5.etc2.bpc.tmb",
+                            "size_after_apply": 962,
+                            "size_before_apply": 0
+                        },
+                        {
+                            "crc_xxhashct": 3985675526,
+                            "filesize": 4054777,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/Interiors.etc2.bpc",
+                            "size_after_apply": 32923804,
+                            "size_before_apply": 28884148
+                        },
+                        {
+                            "crc_xxhashct": 1304795648,
+                            "filesize": 4741,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/Interiors.etc2.bpc.tmb",
+                            "size_after_apply": 9833,
+                            "size_before_apply": 8516
+                        },
+                        {
+                            "crc_xxhashct": 681321623,
+                            "filesize": 60207468,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/gui_textures.etc2.bpc",
+                            "size_after_apply": 531351807,
+                            "size_before_apply": 476616521
+                        },
+                        {
+                            "crc_xxhashct": 2456312649,
+                            "filesize": 326958,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/gui_textures.etc2.bpc.tmb",
+                            "size_after_apply": 988837,
+                            "size_before_apply": 911071
+                        }
+                    ],
+                    "filesize": 63608468,
+                    "link": "patches_31631_f9bcdc49_1787237903592/patch_31631_f9bcdc49_1787237903592_etc2.zip",
+                    "renames": [],
+                    "rule_file": "etc2"
+                },
+                {
+                    "crc_xxhashct": 3239096113,
+                    "files": [
+                        {
+                            "crc_xxhashct": 2844825203,
+                            "filesize": 78389,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/br_tex_cars_01.astc.bpc",
+                            "size_after_apply": 100038171,
+                            "size_before_apply": 100139882
+                        },
+                        {
+                            "crc_xxhashct": 559325497,
+                            "filesize": 55933,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/br_tex_cars_01.astc.bpc.tmb",
+                            "size_after_apply": 407139,
+                            "size_before_apply": 407140
+                        }
+                    ],
+                    "filesize": 47537,
+                    "link": "patches_31631_f9bcdc49_1787237903592/patch_31631_f9bcdc49_1787237903592_with.logo.astc.zip",
+                    "renames": [],
+                    "rule_file": "with.logo.astc"
+                },
+                {
+                    "crc_xxhashct": 2885937940,
+                    "files": [
+                        {
+                            "crc_xxhashct": 431357370,
+                            "filesize": 764097,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "audio/audiostream/streams.bpc",
+                            "size_after_apply": 74388998,
+                            "size_before_apply": 73699914
+                        },
+                        {
+                            "crc_xxhashct": 4111838054,
+                            "filesize": 6213219,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "common.bpc",
+                            "size_after_apply": 6955323,
+                            "size_before_apply": 6954187
+                        },
+                        {
+                            "crc_xxhashct": 2209851107,
+                            "filesize": 3853063,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "gui.bpc",
+                            "size_after_apply": 6198022,
+                            "size_before_apply": 2666416
+                        },
+                        {
+                            "crc_xxhashct": 15926504,
+                            "filesize": 168051,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "jsons/client-jsons.zip",
+                            "size_after_apply": 422941,
+                            "size_before_apply": 361440
+                        },
+                        {
+                            "crc_xxhashct": 488876000,
+                            "filesize": 164556,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "jsons/en/client-jsons.zip",
+                            "size_after_apply": 399496,
+                            "size_before_apply": 337561
+                        },
+                        {
+                            "crc_xxhashct": 1140008573,
+                            "filesize": 204166,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "jsons/pt-br/client-jsons.zip",
+                            "size_after_apply": 401172,
+                            "size_before_apply": 337682
+                        },
+                        {
+                            "crc_xxhashct": 3336722851,
+                            "filesize": 11789,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/BugFix.bpc",
+                            "size_after_apply": 556412,
+                            "size_before_apply": 547566
+                        },
+                        {
+                            "crc_xxhashct": 1287432417,
+                            "filesize": 128393,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/DLC_PortJob.bpc",
+                            "size_after_apply": 8889708,
+                            "size_before_apply": 8767967
+                        },
+                        {
+                            "crc_xxhashct": 1124913806,
+                            "filesize": 24667,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_9may26.bpc",
+                            "size_after_apply": 1112133,
+                            "size_before_apply": 1095247
+                        },
+                        {
+                            "crc_xxhashct": 604005321,
+                            "filesize": 4254,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_BP27.bpc",
+                            "size_after_apply": 629389,
+                            "size_before_apply": 628495
+                        },
+                        {
+                            "crc_xxhashct": 2628510690,
+                            "filesize": 3304,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_BP28.bpc",
+                            "size_after_apply": 473682,
+                            "size_before_apply": 473076
+                        },
+                        {
+                            "crc_xxhashct": 3325596592,
+                            "filesize": 1323,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_BP29.bpc",
+                            "size_after_apply": 404755,
+                            "size_before_apply": 404330
+                        },
+                        {
+                            "crc_xxhashct": 4238522702,
+                            "filesize": 3376,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_BP30.bpc",
+                            "size_after_apply": 620056,
+                            "size_before_apply": 617824
+                        },
+                        {
+                            "crc_xxhashct": 680326104,
+                            "filesize": 138960,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_Cyberfarm.bpc",
+                            "size_after_apply": 9788083,
+                            "size_before_apply": 9693996
+                        },
+                        {
+                            "crc_xxhashct": 2005889041,
+                            "filesize": 4407,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_Grom.bpc",
+                            "size_after_apply": 352550,
+                            "size_before_apply": 350424
+                        },
+                        {
+                            "crc_xxhashct": 1253118088,
+                            "filesize": 332014,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_H25.bpc",
+                            "size_after_apply": 19437256,
+                            "size_before_apply": 19129987
+                        },
+                        {
+                            "crc_xxhashct": 3332166883,
+                            "filesize": 281235,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_NY26.bpc",
+                            "size_after_apply": 31477872,
+                            "size_before_apply": 31249869
+                        },
+                        {
+                            "crc_xxhashct": 2322597366,
+                            "filesize": 35953,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_Quest1.bpc",
+                            "size_after_apply": 4133207,
+                            "size_before_apply": 4104818
+                        },
+                        {
+                            "crc_xxhashct": 1502427711,
+                            "filesize": 546695,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_Quest2.bpc",
+                            "size_after_apply": 26225493,
+                            "size_before_apply": 25694305
+                        },
+                        {
+                            "crc_xxhashct": 283839981,
+                            "filesize": 1895,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_Quest3.bpc",
+                            "size_after_apply": 641613,
+                            "size_before_apply": 640778
+                        },
+                        {
+                            "crc_xxhashct": 3159289488,
+                            "filesize": 549866,
+                            "is_diff": false,
+                            "is_remove": false,
+                            "path": "mesh/Event_Quest5.bpc",
+                            "size_after_apply": 549866,
+                            "size_before_apply": 0
+                        },
+                        {
+                            "crc_xxhashct": 1749188529,
+                            "filesize": 1659,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_Season1.bpc",
+                            "size_after_apply": 118378,
+                            "size_before_apply": 117784
+                        },
+                        {
+                            "crc_xxhashct": 148566516,
+                            "filesize": 309861,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_Season4.bpc",
+                            "size_after_apply": 8507199,
+                            "size_before_apply": 8208997
+                        },
+                        {
+                            "crc_xxhashct": 257783449,
+                            "filesize": 3403,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_Season5.bpc",
+                            "size_after_apply": 937009,
+                            "size_before_apply": 936361
+                        },
+                        {
+                            "crc_xxhashct": 4122348895,
+                            "filesize": 11978,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_Valentin26.bpc",
+                            "size_after_apply": 2570927,
+                            "size_before_apply": 2562051
+                        },
+                        {
+                            "crc_xxhashct": 1563568543,
+                            "filesize": 690,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_World_Cup.bpc",
+                            "size_after_apply": 93083,
+                            "size_before_apply": 92861
+                        },
+                        {
+                            "crc_xxhashct": 3425157526,
+                            "filesize": 749,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/FTUE.bpc",
+                            "size_after_apply": 2783,
+                            "size_before_apply": 2496
+                        },
+                        {
+                            "crc_xxhashct": 4082454991,
+                            "filesize": 10151,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Gun_store.bpc",
+                            "size_after_apply": 3967245,
+                            "size_before_apply": 3963077
+                        },
+                        {
+                            "crc_xxhashct": 2106824930,
+                            "filesize": 42628,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Interiors.bpc",
+                            "size_after_apply": 5754227,
+                            "size_before_apply": 5718747
+                        },
+                        {
+                            "crc_xxhashct": 1163929021,
+                            "filesize": 81969,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Revert_NY26.bpc",
+                            "size_after_apply": 3705364,
+                            "size_before_apply": 3629374
+                        },
+                        {
+                            "crc_xxhashct": 4203369481,
+                            "filesize": 16265458,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Roads3-0.bpc",
+                            "size_after_apply": 282229107,
+                            "size_before_apply": 266609424
+                        }
+                    ],
+                    "filesize": 29318287,
+                    "link": "patches_31631_f9bcdc49_1787237903592/patch_31631_f9bcdc49_1787237903592_base.zip",
+                    "renames": [],
+                    "rule_file": "base"
+                },
+                {
+                    "crc_xxhashct": 1391928471,
+                    "files": [
+                        {
+                            "crc_xxhashct": 4259625775,
+                            "filesize": 86336,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/br_tex_cars_01.etc2.bpc",
+                            "size_after_apply": 75349286,
+                            "size_before_apply": 75437035
+                        },
+                        {
+                            "crc_xxhashct": 322949321,
+                            "filesize": 55808,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/br_tex_cars_01.etc2.bpc.tmb",
+                            "size_after_apply": 347110,
+                            "size_before_apply": 347108
+                        }
+                    ],
+                    "filesize": 53429,
+                    "link": "patches_31631_f9bcdc49_1787237903592/patch_31631_f9bcdc49_1787237903592_with.logo.etc2.zip",
+                    "renames": [],
+                    "rule_file": "with.logo.etc2"
+                }
+            ]
+        },
+        {
+            "folders": [],
+            "format_version": "1.0",
+            "hash_commit_final": "31727_6b5a1f08_1787315576622",
+            "hash_commit_initial": "31631_f9bcdc49_1787237903592",
+            "subpatches": [
+                {
+                    "crc_xxhashct": 2591910651,
+                    "files": [
+                        {
+                            "crc_xxhashct": 3108241232,
+                            "filesize": 38320784,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "launcher.apk",
+                            "size_after_apply": 117828540,
+                            "size_before_apply": 117819332
+                        }
+                    ],
+                    "filesize": 36945061,
+                    "link": "patches_31727_6b5a1f08_1787315576622/patch_31727_6b5a1f08_1787315576622_android.site.zip",
+                    "renames": [],
+                    "rule_file": "android.site"
+                },
+                {
+                    "crc_xxhashct": 1494693110,
+                    "files": [
+                        {
+                            "crc_xxhashct": 3578719074,
+                            "filesize": 29254,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/Event_Quest5.astc.bpc",
+                            "size_after_apply": 151349,
+                            "size_before_apply": 122654
+                        },
+                        {
+                            "crc_xxhashct": 560510507,
+                            "filesize": 570,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/Event_Quest5.astc.bpc.tmb",
+                            "size_after_apply": 1324,
+                            "size_before_apply": 1112
+                        },
+                        {
+                            "crc_xxhashct": 2566949466,
+                            "filesize": 144330,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/Roads3-0.astc.bpc",
+                            "size_after_apply": 108116650,
+                            "size_before_apply": 108128610
+                        },
+                        {
+                            "crc_xxhashct": 3954622241,
+                            "filesize": 835717,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/gui_textures.astc.bpc",
+                            "size_after_apply": 527875655,
+                            "size_before_apply": 531351807
+                        },
+                        {
+                            "crc_xxhashct": 437613091,
+                            "filesize": 212858,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/gui_textures.astc.bpc.tmb",
+                            "size_after_apply": 988759,
+                            "size_before_apply": 988837
+                        }
+                    ],
+                    "filesize": 855066,
+                    "link": "patches_31727_6b5a1f08_1787315576622/patch_31727_6b5a1f08_1787315576622_astc.zip",
+                    "renames": [],
+                    "rule_file": "astc"
+                },
+                {
+                    "crc_xxhashct": 1515839295,
+                    "files": [
+                        {
+                            "crc_xxhashct": 1102751806,
+                            "filesize": 20799,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/Event_Quest5.etc2.bpc",
+                            "size_after_apply": 123182,
+                            "size_before_apply": 102943
+                        },
+                        {
+                            "crc_xxhashct": 1023436986,
+                            "filesize": 641,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/Event_Quest5.etc2.bpc.tmb",
+                            "size_after_apply": 1139,
+                            "size_before_apply": 962
+                        },
+                        {
+                            "crc_xxhashct": 3954622241,
+                            "filesize": 835717,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/gui_textures.etc2.bpc",
+                            "size_after_apply": 527875655,
+                            "size_before_apply": 531351807
+                        },
+                        {
+                            "crc_xxhashct": 437613091,
+                            "filesize": 212858,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/gui_textures.etc2.bpc.tmb",
+                            "size_after_apply": 988759,
+                            "size_before_apply": 988837
+                        }
+                    ],
+                    "filesize": 709656,
+                    "link": "patches_31727_6b5a1f08_1787315576622/patch_31727_6b5a1f08_1787315576622_etc2.zip",
+                    "renames": [],
+                    "rule_file": "etc2"
+                },
+                {
+                    "crc_xxhashct": 2571384414,
+                    "files": [
+                        {
+                            "crc_xxhashct": 2893253783,
+                            "filesize": 6072438,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "common.bpc",
+                            "size_after_apply": 6955338,
+                            "size_before_apply": 6955323
+                        },
+                        {
+                            "crc_xxhashct": 3670081826,
+                            "filesize": 167312,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "gui.bpc",
+                            "size_after_apply": 6203423,
+                            "size_before_apply": 6198022
+                        },
+                        {
+                            "crc_xxhashct": 318221831,
+                            "filesize": 14629,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "jsons/client-jsons.zip",
+                            "size_after_apply": 422913,
+                            "size_before_apply": 422941
+                        },
+                        {
+                            "crc_xxhashct": 4204345744,
+                            "filesize": 12945,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "jsons/en/client-jsons.zip",
+                            "size_after_apply": 399469,
+                            "size_before_apply": 399496
+                        },
+                        {
+                            "crc_xxhashct": 1351871912,
+                            "filesize": 10536,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "jsons/pt-br/client-jsons.zip",
+                            "size_after_apply": 401146,
+                            "size_before_apply": 401172
+                        },
+                        {
+                            "crc_xxhashct": 3781375216,
+                            "filesize": 7421,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_Quest5.bpc",
+                            "size_after_apply": 552031,
+                            "size_before_apply": 549866
+                        }
+                    ],
+                    "filesize": 6200000,
+                    "link": "patches_31727_6b5a1f08_1787315576622/patch_31727_6b5a1f08_1787315576622_base.zip",
+                    "renames": [],
+                    "rule_file": "base"
+                }
+            ]
+        },
+        {
+            "folders": [],
+            "format_version": "1.0",
+            "hash_commit_final": "31762_31a41313_1787326521003",
+            "hash_commit_initial": "31727_6b5a1f08_1787315576622",
+            "subpatches": [
+                {
+                    "crc_xxhashct": 1782067307,
+                    "files": [
+                        {
+                            "crc_xxhashct": 3624513030,
+                            "filesize": 52401597,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "launcher.apk",
+                            "size_after_apply": 117844268,
+                            "size_before_apply": 117828540
+                        }
+                    ],
+                    "filesize": 51527161,
+                    "link": "patches_31762_31a41313_1787326521003/patch_31762_31a41313_1787326521003_android.site.zip",
+                    "renames": [],
+                    "rule_file": "android.site"
+                },
+                {
+                    "crc_xxhashct": 2531185047,
+                    "files": [
+                        {
+                            "crc_xxhashct": 1679473179,
+                            "filesize": 1057,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/br_tex_cars_01_nologo.etc2.bpc.tmb",
+                            "size_after_apply": 309973,
+                            "size_before_apply": 309973
+                        }
+                    ],
+                    "filesize": 735,
+                    "link": "patches_31762_31a41313_1787326521003/patch_31762_31a41313_1787326521003_nologo.etc2.zip",
+                    "renames": [],
+                    "rule_file": "nologo.etc2"
+                },
+                {
+                    "crc_xxhashct": 2799890069,
+                    "files": [
+                        {
+                            "crc_xxhashct": 2595696220,
+                            "filesize": 156290,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/Roads3-0.astc.bpc",
+                            "size_after_apply": 108128610,
+                            "size_before_apply": 108116650
+                        },
+                        {
+                            "crc_xxhashct": 2334983355,
+                            "filesize": 176303,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/gui_textures.astc.bpc",
+                            "size_after_apply": 514275706,
+                            "size_before_apply": 527875655
+                        },
+                        {
+                            "crc_xxhashct": 415291337,
+                            "filesize": 115241,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/gui_textures.astc.bpc.tmb",
+                            "size_after_apply": 980738,
+                            "size_before_apply": 988759
+                        }
+                    ],
+                    "filesize": 252612,
+                    "link": "patches_31762_31a41313_1787326521003/patch_31762_31a41313_1787326521003_astc.zip",
+                    "renames": [],
+                    "rule_file": "astc"
+                },
+                {
+                    "crc_xxhashct": 3064629285,
+                    "files": [
+                        {
+                            "crc_xxhashct": 2334983355,
+                            "filesize": 176303,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/gui_textures.etc2.bpc",
+                            "size_after_apply": 514275706,
+                            "size_before_apply": 527875655
+                        },
+                        {
+                            "crc_xxhashct": 415291337,
+                            "filesize": 115241,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "textures/gui_textures.etc2.bpc.tmb",
+                            "size_after_apply": 980738,
+                            "size_before_apply": 988759
+                        }
+                    ],
+                    "filesize": 102433,
+                    "link": "patches_31762_31a41313_1787326521003/patch_31762_31a41313_1787326521003_etc2.zip",
+                    "renames": [],
+                    "rule_file": "etc2"
+                },
+                {
+                    "crc_xxhashct": 219907148,
+                    "files": [
+                        {
+                            "crc_xxhashct": 3382582519,
+                            "filesize": 17418,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/BugFix.bpc",
+                            "size_after_apply": 545933,
+                            "size_before_apply": 556412
+                        },
+                        {
+                            "crc_xxhashct": 3740558964,
+                            "filesize": 303453,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/DLC_PortJob.bpc",
+                            "size_after_apply": 8757970,
+                            "size_before_apply": 8889708
+                        },
+                        {
+                            "crc_xxhashct": 101029726,
+                            "filesize": 52645,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_9may26.bpc",
+                            "size_after_apply": 1089647,
+                            "size_before_apply": 1112133
+                        },
+                        {
+                            "crc_xxhashct": 679850469,
+                            "filesize": 12352,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_BP27.bpc",
+                            "size_after_apply": 626628,
+                            "size_before_apply": 629389
+                        },
+                        {
+                            "crc_xxhashct": 1660478424,
+                            "filesize": 9607,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_BP28.bpc",
+                            "size_after_apply": 471581,
+                            "size_before_apply": 473682
+                        },
+                        {
+                            "crc_xxhashct": 2516995568,
+                            "filesize": 4548,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_BP29.bpc",
+                            "size_after_apply": 403320,
+                            "size_before_apply": 404755
+                        },
+                        {
+                            "crc_xxhashct": 4045045299,
+                            "filesize": 13447,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_BP30.bpc",
+                            "size_after_apply": 616205,
+                            "size_before_apply": 620056
+                        },
+                        {
+                            "crc_xxhashct": 3447424259,
+                            "filesize": 670062,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_Cyberfarm.bpc",
+                            "size_after_apply": 9663099,
+                            "size_before_apply": 9788083
+                        },
+                        {
+                            "crc_xxhashct": 1433677275,
+                            "filesize": 8104,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_Grom.bpc",
+                            "size_after_apply": 348989,
+                            "size_before_apply": 352550
+                        },
+                        {
+                            "crc_xxhashct": 1055560531,
+                            "filesize": 766565,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_H25.bpc",
+                            "size_after_apply": 19122209,
+                            "size_before_apply": 19437256
+                        },
+                        {
+                            "crc_xxhashct": 317186787,
+                            "filesize": 1480993,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_NY26.bpc",
+                            "size_after_apply": 31217004,
+                            "size_before_apply": 31477872
+                        },
+                        {
+                            "crc_xxhashct": 3932512363,
+                            "filesize": 110886,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_Quest1.bpc",
+                            "size_after_apply": 4098390,
+                            "size_before_apply": 4133207
+                        },
+                        {
+                            "crc_xxhashct": 3294078587,
+                            "filesize": 2003256,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_Quest2.bpc",
+                            "size_after_apply": 25649810,
+                            "size_before_apply": 26225493
+                        },
+                        {
+                            "crc_xxhashct": 779721678,
+                            "filesize": 16557,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_Quest3.bpc",
+                            "size_after_apply": 638479,
+                            "size_before_apply": 641613
+                        },
+                        {
+                            "crc_xxhashct": 2948775444,
+                            "filesize": 7122,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_Quest5.bpc",
+                            "size_after_apply": 548510,
+                            "size_before_apply": 552031
+                        },
+                        {
+                            "crc_xxhashct": 4237126389,
+                            "filesize": 1901,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_Season1.bpc",
+                            "size_after_apply": 117316,
+                            "size_before_apply": 118378
+                        },
+                        {
+                            "crc_xxhashct": 3867077731,
+                            "filesize": 445380,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_Season4.bpc",
+                            "size_after_apply": 8205746,
+                            "size_before_apply": 8507199
+                        },
+                        {
+                            "crc_xxhashct": 1436030199,
+                            "filesize": 11834,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_Season5.bpc",
+                            "size_after_apply": 934578,
+                            "size_before_apply": 937009
+                        },
+                        {
+                            "crc_xxhashct": 4235632801,
+                            "filesize": 32962,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_Valentin26.bpc",
+                            "size_after_apply": 2559534,
+                            "size_before_apply": 2570927
+                        },
+                        {
+                            "crc_xxhashct": 2005798922,
+                            "filesize": 1048,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Event_World_Cup.bpc",
+                            "size_after_apply": 92673,
+                            "size_before_apply": 93083
+                        },
+                        {
+                            "crc_xxhashct": 1102878069,
+                            "filesize": 1065,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/FTUE.bpc",
+                            "size_after_apply": 2321,
+                            "size_before_apply": 2783
+                        },
+                        {
+                            "crc_xxhashct": 3190128828,
+                            "filesize": 79883,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Gun_store.bpc",
+                            "size_after_apply": 3957901,
+                            "size_before_apply": 3967245
+                        },
+                        {
+                            "crc_xxhashct": 2154443496,
+                            "filesize": 75215,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Interiors.bpc",
+                            "size_after_apply": 5745021,
+                            "size_before_apply": 5754227
+                        },
+                        {
+                            "crc_xxhashct": 3866891500,
+                            "filesize": 121919,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Revert_NY26.bpc",
+                            "size_after_apply": 3627608,
+                            "size_before_apply": 3705364
+                        },
+                        {
+                            "crc_xxhashct": 1595315765,
+                            "filesize": 97206867,
+                            "is_diff": true,
+                            "is_remove": false,
+                            "path": "mesh/Roads3-0.bpc",
+                            "size_after_apply": 266008453,
+                            "size_before_apply": 282229107
+                        }
+                    ],
+                    "filesize": 102011682,
+                    "link": "patches_31762_31a41313_1787326521003/patch_31762_31a41313_1787326521003_base.zip",
+                    "renames": [],
+                    "rule_file": "base"
+                }
+            ]
+        }
+    ]
+}
